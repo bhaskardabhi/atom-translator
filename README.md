@@ -10,6 +10,9 @@ Setup:
 
 ![Setting](https://raw.githubusercontent.com/bhaskardabhi/atom-translator/master/setting.png)
 
+#### How to use:
+![How to use](http://i.imgur.com/9ecJBPU.gif)
+
 Following languages are supported for translation:
 
 af => Afrikaans
