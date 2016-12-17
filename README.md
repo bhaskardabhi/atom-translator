@@ -2,11 +2,15 @@
 
 Special thanks to [Yandex](https://translate.yandex.com/) for translation service.
 
-Just select text press `ctrl-alt-t` and get your text translated into your selected language. Following languages are supported by Yandex.
+Just select text press `ctrl-alt-t` and get your text translated into your selected language.
 
 Setup:
-* Get your [Yandex translation](https://tech.yandex.com/keys/get/?service=trnsl) key first.
-* Enter shortcode in your package preference for translation (See Below shortcodes for languages).
+* Get your [Yandex translation](https://tech.yandex.com/keys/get/?service=trnsl) key.
+* Enter Your Translation key and Translation language(as shortcode) in package setting.
+
+![Setting](https://raw.githubusercontent.com/bhaskardabhi/atom-translator/master/setting.png)
+
+Following languages are supported for translation:
 
 af => Afrikaans
 
