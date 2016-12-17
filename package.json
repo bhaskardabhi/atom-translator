@@ -2,7 +2,7 @@
   "name": "atom-translator",
   "main": "./lib/translator",
   "version": "0.1.2",
-  "description": "Atom Translation Plugin to translate words and sentences.",
+  "description": "Atom Translation Plugin for quick translation",
   "keywords": [
     "translator",
     "translate",
