@@ -1,9 +1,15 @@
 {
   "name": "atom-translator",
   "main": "./lib/translator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Atom Translation Plugin to translate words and sentences.",
-  "keywords": ["translator","translate","language","dictionary","translation"],
+  "keywords": [
+    "translator",
+    "translate",
+    "language",
+    "dictionary",
+    "translation"
+  ],
   "activationCommands": {
     "atom-workspace": "atom-translator:toggle"
   },
