@@ -1,12 +1,16 @@
 # Atom Translator
 
-Special thanks to [Yandex](https://translate.yandex.com/) for translation service.
+Translation using [Yandex](https://translate.yandex.com/) and [Google Translation Service](https://cloud.google.com/translate/docs/)
 
 Just select text press `ctrl-alt-t` and get your text translated into your selected language.
 
 Setup:
-* Get your [Yandex translation](https://tech.yandex.com/keys/get/?service=trnsl) key.
+* Get your [Translation API Key](#api-key) for your service provider.
 * Enter Your Translation key and Translation language(as shortcode) in package setting.
+
+### <a name="api-key"></a> Get API Key At:
+* [Yandex Translation api key](https://tech.yandex.com/keys/get/?service=trnsl)
+* [Google Translation api key](https://console.cloud.google.com/apis/credentials)
 
 ![Setting](https://raw.githubusercontent.com/bhaskardabhi/atom-translator/master/setting.png)
 
