@@ -12,12 +12,12 @@ Setup:
 * [Yandex Translation api key](https://tech.yandex.com/keys/get/?service=trnsl)
 * [Google Translation api key](https://console.cloud.google.com/apis/credentials)
 
-![Setting](https://raw.githubusercontent.com/bhaskardabhi/atom-translator/master/setting.png)
+![Setting](http://i.imgur.com/WS2VMKq.png)
 
 #### How to use:
 ![How to use](http://i.imgur.com/QqRPyP7.gif)
 
-Following languages are supported for translation:
+Following languages are supported for Yandex translation:
 
 af => Afrikaans
 
