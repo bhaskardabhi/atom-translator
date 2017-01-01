@@ -19,6 +19,12 @@ Setup:
 
 Following languages are supported for Yandex translation:
 
+| Shortcode     | Language      |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+
 af => Afrikaans
 
 am => Amharic
