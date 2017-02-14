@@ -17,6 +17,9 @@ Setup:
 #### How to use:
 ![How to use](http://i.imgur.com/QqRPyP7.gif)
 
+### <a name="donate"></a> Donate:
+* [Buy me a coffee](http://ko-fi.com/A734L98)
+
 Following languages are supported for Yandex translation:
 
 | Shortcode     | Language      |
@@ -110,8 +113,5 @@ Following languages are supported for Yandex translation:
 | xh | Xhosa |
 | yi | Yiddish |
 | zh | Chinese |
-
-### <a name="donate"></a> Donate:
-* [Buy me a coffee](http://ko-fi.com/A734L98)
 
 
