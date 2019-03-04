@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle translator",
-        "command": "atom-translator:toggle"
+        "command": "atom-translator-tooltips:toggle"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "atom-translator:toggle"
+              "command": "atom-translator-tooltips:toggle"
             }
           ]
         }

@@ -1,19 +1,20 @@
 {
-  "name": "atom-translator",
+  "name": "atom-translator-tooltips",
   "main": "./lib/translator",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Atom Translation Plugin for quick translation",
   "keywords": [
     "translator",
     "translate",
     "language",
     "dictionary",
-    "translation"
+    "translation",
+    "tooltips"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-translator:toggle"
+    "atom-workspace": "atom-translator-tooltips:toggle"
   },
-  "repository": "https://github.com/bhaskardabhi/atom-translator",
+  "repository": "https://github.com/eDubrovsky/atom-translator-tooltips",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

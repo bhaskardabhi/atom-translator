@@ -1,26 +1,28 @@
+
+
+# Original package
+This package is a fork from [bhaskardabhi/atom-translator](https://github.com/bhaskardabhi/atom-translator).<br>
+Added ability to show translated text in tooltips and option for disable it.
+
 # Atom Translator
+Translation using [Google Translation Service](https://cloud.google.com/translate/docs/) and [Yandex](https://translate.yandex.com/).
 
-Translation using [Yandex](https://translate.yandex.com/) and [Google Translation Service](https://cloud.google.com/translate/docs/)
-
-Just select text press `ctrl-alt-t` and get your text translated into your selected language.
+Just select text press <kbd>ALT</kbd> + <kbd>F2</kbd> and get your text translated into tooltips.
 
 Setup:
 * Get your [Translation API Key](#api-key) for your service provider.
-* Enter Your Translation key and Translation language(as shortcode) in package setting.
+* Enter Your Translation key and Translation language (as shortcode) in package setting.
 
 ### <a name="api-key"></a> Get API Key At:
-* [Yandex Translation api key](https://tech.yandex.com/keys/get/?service=trnsl)
-* [Google Translation api key](https://console.cloud.google.com/apis/credentials)
+* [Google Translation api key](https://console.cloud.google.com/apis/credentials).
+* [Yandex Translation api key](https://tech.yandex.com/keys/get/?service=trnsl).
 
-![Setting](http://i.imgur.com/WS2VMKq.png)
 
 #### How to use:
-![How to use](http://i.imgur.com/QqRPyP7.gif)
+![How to use](https://i.imgur.com/jWFU8Lx.gif)
 
-### <a name="donate"></a> Donate:
-* [Buy me a coffee](http://ko-fi.com/A734L98)
-
-Following languages are supported for Yandex translation:
+#### Shortcodes:
+Following languages are supported for translation:
 
 | Shortcode     | Language      |
 | ------------- |:-------------:|
@@ -113,5 +115,3 @@ Following languages are supported for Yandex translation:
 | xh | Xhosa |
 | yi | Yiddish |
 | zh | Chinese |
-
-
