@@ -1,2 +1,2 @@
-## 0.2.3 - First Release
+## 0.2.4 - First Release
 * Added ability to show translated text in tooltips and option for disable it.
