@@ -2,7 +2,8 @@
 
 Translation using [Yandex](https://translate.yandex.com/) and [Google Translation Service](https://cloud.google.com/translate/docs/)
 
-Just select text press `ctrl-alt-t` and get your text translated into your selected language.
+Added ability to show translated text in tooltips and option for disable it.
+Just select text press `ctrl-alt-t` and get your text translated into tooltips.
 
 Setup:
 * Get your [Translation API Key](#api-key) for your service provider.
@@ -15,6 +16,7 @@ Setup:
 ![Setting](http://i.imgur.com/WS2VMKq.png)
 
 #### How to use:
+![](https://i.imgur.com/jWFU8Lx.gif)
 ![How to use](http://i.imgur.com/QqRPyP7.gif)
 
 ### <a name="donate"></a> Donate:
@@ -113,5 +115,3 @@ Following languages are supported for Yandex translation:
 | xh | Xhosa |
 | yi | Yiddish |
 | zh | Chinese |
-
-
