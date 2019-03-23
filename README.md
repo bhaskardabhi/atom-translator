@@ -2,8 +2,7 @@
 
 Translation using [Yandex](https://translate.yandex.com/) and [Google Translation Service](https://cloud.google.com/translate/docs/)
 
-Added ability to show translated text in tooltips and option for disable it.
-Just select text press `ctrl-alt-t` and get your text translated into tooltips.
+Just select text press `ctrl-alt-t` and get your text translated.
 
 Setup:
 * Get your [Translation API Key](#api-key) for your service provider.
@@ -16,8 +15,13 @@ Setup:
 ![Setting](http://i.imgur.com/WS2VMKq.png)
 
 #### How to use:
-![](https://i.imgur.com/jWFU8Lx.gif)
 ![How to use](http://i.imgur.com/QqRPyP7.gif)
+
+### Display Translation in Tooltip:
+
+For this, Enable "Display Translation in Tooltip" option in preference.
+
+![Display Translation in Tooltip](https://i.imgur.com/jWFU8Lx.gif)
 
 ### <a name="donate"></a> Donate:
 * [Buy me a coffee](http://ko-fi.com/A734L98)
