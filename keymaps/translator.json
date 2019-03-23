@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-t": "atom-translator:toggle"
+    "ctrl-alt-t": "atom-translator:toggle",
+    "shift-ctrl-alt-t": "atom-toggleToolTip:toggle"
   }
 }

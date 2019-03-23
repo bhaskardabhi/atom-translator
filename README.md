@@ -2,7 +2,7 @@
 
 Translation using [Yandex](https://translate.yandex.com/) and [Google Translation Service](https://cloud.google.com/translate/docs/)
 
-Just select text press `ctrl-alt-t` and get your text translated.
+Just select text press `ctrl-alt-t` and get your text translated. You can use `shift-ctrl-alt-t` to display translated text as tooltip.
 
 Setup:
 * Get your [Translation API Key](#api-key) for your service provider.
@@ -19,7 +19,7 @@ Setup:
 
 ### Display Translation in Tooltip:
 
-For this, Enable "Display Translation in Tooltip" option in preference.
+For this, Enable "Display Translation in Tooltip" option in preference. (Or use `shift-ctrl-alt-t` instead)
 
 ![Display Translation in Tooltip](https://i.imgur.com/jWFU8Lx.gif)
 
