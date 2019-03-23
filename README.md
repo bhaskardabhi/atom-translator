@@ -23,6 +23,8 @@ For this, Enable "Display Translation in Tooltip" option in preference.
 
 ![Display Translation in Tooltip](https://i.imgur.com/jWFU8Lx.gif)
 
+Special thanks to [atom-translator-tooltips](https://api.atom.io/packages/atom-translator-tooltips)
+
 ### <a name="donate"></a> Donate:
 * [Buy me a coffee](http://ko-fi.com/A734L98)
 
